@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-saltana/static/css/main.b29584cd.css",
+    "main.js": "/todo-saltana/static/js/main.a6958be2.js",
+    "index.html": "/todo-saltana/index.html",
+    "main.b29584cd.css.map": "/todo-saltana/static/css/main.b29584cd.css.map",
+    "main.a6958be2.js.map": "/todo-saltana/static/js/main.a6958be2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b29584cd.css",
+    "static/js/main.a6958be2.js"
+  ]
+}
