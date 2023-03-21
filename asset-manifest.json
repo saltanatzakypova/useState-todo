@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useState-todo/static/css/main.b29584cd.css",
+    "main.js": "/useState-todo/static/js/main.b47fed75.js",
+    "index.html": "/useState-todo/index.html",
+    "main.b29584cd.css.map": "/useState-todo/static/css/main.b29584cd.css.map",
+    "main.b47fed75.js.map": "/useState-todo/static/js/main.b47fed75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b29584cd.css",
+    "static/js/main.b47fed75.js"
+  ]
+}
